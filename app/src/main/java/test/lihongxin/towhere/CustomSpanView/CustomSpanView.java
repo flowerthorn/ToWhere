@@ -208,7 +208,7 @@ public class CustomSpanView  extends SurfaceView implements SurfaceHolder.Callba
     }
 
     private void drawBg() {
-        mCanvas.drawColor(0xFF00DB00);
+        mCanvas.drawColor(0xFFa1a3a6);
         mCanvas.drawBitmap(mBgBitmap,null,new Rect(mPadding/2,
                 mPadding/2,getMeasuredWidth()-mPadding/2,
                 getMeasuredWidth()-mPadding/2),null);

@@ -2,7 +2,7 @@
 
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:background="#00DB00"
+    android:background="#a1a3a6"
     android:layout_height="match_parent" >
 
     <test.lihongxin.towhere.CustomSpanView.CustomSpanView
